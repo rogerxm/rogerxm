@@ -6,4 +6,4 @@ Desarrollador Frontend con 2 años de experiencia, apasionado por construir apli
 📍 Ciudad de México, México
 
  ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,vue,tailwind,nodejs,express,laravel,php,mysql,mongodb,postgres,aws,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,js,ts,react,redux,vue,tailwind,nodejs,express,laravel,php,mysql,mongodb,postgres,aws,git)](https://skillicons.dev)
